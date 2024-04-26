@@ -1,0 +1,144 @@
+.picture {
+    width: 3.5%;
+    margin-top: .8%;
+    margin-left: 2.8%;
+    cursor: pointer;
+}
+
+.jerome {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 20px;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    transition: color .3s;
+}
+
+.jerome:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.home {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 59%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+    
+}
+
+.home:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.about {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 65%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.about:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.projects {
+    color: rgb(173, 0, 0);
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 72%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.projects:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.contact {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 80.5%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.contact:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.image {
+    margin-top: 8%;
+    margin-left: 3.5%;
+}
+.img {
+    border-radius: 100%;
+    width: 15.5%;
+    margin-top: .8%;
+    margin-left: 2.8%;
+    cursor: pointer;
+}
+    
+.name {
+    text-align: center;
+}
+
+.names {
+    font-family: Source Sans Pro;
+    font-weight: bold;
+    display: -webkit-inline-box;
+    margin-left: 4%;
+    margin-right: 4%;
+    font-size: 22px;
+}
+
+.spreadlove {
+    color: white;
+    background-color: rgb(190, 0, 0);
+    height: 65px;
+    width: 250px;
+    font-size: 22px;
+    font-family: Source Sans Pro;
+    font-weight: bold;
+    text-align: center;
+    display: block;
+    margin: auto;
+    border-radius: 7px;
+    margin-top: 3.5%;
+    border-color: rgb(190, 0, 0);
+    border: solid;
+    transition: all .4s;
+    margin-right: 42.5%;
+
+
+}
+
+.spreadlove:hover {
+    color: black;
+    background-color: white;
+    border-color: rgb(190, 0, 0);
+    cursor: pointer;
+}

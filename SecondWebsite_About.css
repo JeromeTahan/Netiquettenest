@@ -1,0 +1,112 @@
+.picture {
+    width: 3.5%;
+    margin-top: .8%;
+    margin-left: 2.8%;
+    cursor: pointer;
+}
+
+.jerome {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 20px;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    transition: color .3s;
+}
+
+.jerome:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.home {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 59%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+    
+}
+
+.home:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.about {
+    color: rgb(173, 0, 0);
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 65%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.about:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.projects {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 72%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.projects:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.contact {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 80.5%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.contact:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+
+.description {
+    margin: auto;
+    display: block;
+    width: 70%;
+    margin-top: 8%;
+    text-align: center;
+}
+
+.description-text {
+    font-family: Source Sans Pro;
+    font-size: 24px;
+    margin-top: 5%;
+}
+
+.netiquette {
+    color: rgb(173, 0, 0);
+    font-weight: bold;
+
+}

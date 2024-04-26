@@ -1,0 +1,128 @@
+.picture {
+    width: 3.5%;
+    margin-top: .8%;
+    margin-left: 2.8%;
+    cursor: pointer;
+}
+
+.jerome {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 20px;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    transition: color .3s;
+}
+
+.jerome:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.home {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 59%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+    
+}
+
+.home:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.about {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 65%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.about:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.projects {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 72%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.projects:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.contact {
+    color: black;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 80.5%;
+    font-family: Source Sans Pro;
+    font-weight: bolder;
+    font-size: 18px;
+    text-decoration: none;
+    transition: color .3s;
+}
+
+.contact:hover {
+    cursor: pointer;
+    color: rgb(173, 0, 0);
+}
+
+.content {
+    width: 80%;
+    margin: auto;
+    display: block;
+}
+.title {
+    text-align: center;
+    font-family: Source Sans Pro;
+    font-size: 46px;
+    margin-bottom: 50px;
+
+}
+
+.main {
+    font-family: Source Sans Pro;
+    font-size: 32px;
+    font-weight: 550;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+.description {
+    font-family: Source Sans Pro;
+    font-size: 22px;
+    margin-top: 0px;
+    margin-bottom: 20px;
+}
+
+.example {
+    font-family: Source Sans Pro;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(173, 0, 0);
+    margin-top: 0px;
+    margin-bottom: 100px;
+}
