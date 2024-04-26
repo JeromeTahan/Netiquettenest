@@ -95,18 +95,6 @@
     display: -webkit-inline-box;
 }
 
-
-.contact-title {
-    width: 70%;
-    margin: auto;
-    display: block;
-}
-.contact {
-    width: 100%;
-    margin-bottom: 20px;
-}
-
-
 .info-container {
     width: 80%;
     margin: auto;
